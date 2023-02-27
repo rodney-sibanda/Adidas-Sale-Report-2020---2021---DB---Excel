@@ -55,7 +55,7 @@ The dataset is in CSV format, and it was cleaned and processed for analysis thro
 - This chart shows the top cities in terms of profitability, which helps identify which markets are the most lucrative. This information can be used to target marketing efforts and allocate resources more effectively.
 
 
-## Performance comparison: 
+
 
 ## Active filters to interact with data and the dashboard
 
@@ -65,5 +65,6 @@ The dataset is in CSV format, and it was cleaned and processed for analysis thro
 
 # Demonstration of Dynamic action
 
-- 
+
+
 
