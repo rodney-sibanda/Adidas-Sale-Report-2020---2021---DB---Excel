@@ -1,4 +1,4 @@
-# Adidas-Sale-Report-2020---2021---DB---Excel
+# Adidas Sale Report 2020 - 2021 analysis using Excel Dashboard
 
 # About this Proeject
 
