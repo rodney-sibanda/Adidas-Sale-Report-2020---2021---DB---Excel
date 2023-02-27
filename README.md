@@ -65,6 +65,8 @@ The dataset is in CSV format, and it was cleaned and processed for analysis thro
 
 # Demonstration of Dynamic action
 
+![Dynamic Action (1)](https://user-images.githubusercontent.com/126027138/221468148-ae23b8ad-4d70-4dd4-835f-59d611910fb4.gif)
+
 
 
 
