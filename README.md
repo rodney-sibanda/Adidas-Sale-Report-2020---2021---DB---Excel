@@ -6,7 +6,7 @@ This project aims to provide a comprehensive analysis of the Adidas sales trends
 
 # Data used
 
-The dataset is in CSV format, and it was cleaned and processed for analysis through excel basic excel filtering functions.
+To execute this analysis on Adidas sales across 2020 and 2021, a publicaly available dataset downloaded from kaggle was used. The dataset is a structured in a tabular .csv data with over 9,000 rows and 10 columns.
 
 # Analyses derived from the dataset
 
